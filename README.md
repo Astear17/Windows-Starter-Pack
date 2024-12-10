@@ -1,5 +1,4 @@
 # Windows-Starter-Pack
-# READ THIS BEFORE USING ANY PACK IN THIS
 
 # English (Tiếng Anh
 This repository is a pull-requests project for any program (you can pull a request for an cracked app, product keys,...)
